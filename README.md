@@ -77,7 +77,7 @@ Add your Power BI dashboard screenshot here.
 
 Example:
 
-![Dashboard Screenshot]()
+Dasbord output.png
 
 ---
 
