@@ -77,7 +77,8 @@ Add your Power BI dashboard screenshot here.
 
 Example:
 
-Dasbord output.png
+![Dashboard Screenshot](screenshots/dashboard.png)
+/Users/pabitrapal/Desktop/Screenshot\ 2026-03-14\ at\ 2.46.47 AM\ 2.png 
 
 ---
 
