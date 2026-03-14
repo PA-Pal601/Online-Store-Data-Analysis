@@ -1,102 +1,102 @@
 # Online-Shop-Data-Analysis
 
-"Project Overview"
-This project focuses on analyzing Blinkit's sales data using Microsoft Power BI. The goal is to gain insights into sales performance, customer satisfaction, and product demand through interactive dashboards and key performance indicators (KPIs).
+# Blinkit Sales Analysis Dashboard 📊
 
-The dashboard helps visualize important business metrics and supports data-driven decision-making.
+A data analytics project that analyzes Blinkit's sales performance, customer satisfaction, and product demand using Microsoft Power BI.  
+The dashboard provides interactive visualizations and key performance indicators (KPIs) to support data-driven decision making.
 
-Objectives
+---
 
-Analyze Blinkit’s overall sales performance
+## 📌 Project Objective
 
-Track key KPIs such as Total Sales, Average Sales, and Number of Items Sold
+The objective of this project is to analyze Blinkit sales data and generate meaningful insights about business performance.  
+The dashboard helps monitor important KPIs and understand customer behavior.
 
-Evaluate customer satisfaction through average ratings
+---
 
-Build an interactive dashboard for clear data visualization
+## 📊 Key Performance Indicators (KPIs)
 
-Key Performance Indicators (KPIs)
+- **Total Sales** – Overall revenue generated from all items sold  
+- **Average Sales** – Average revenue per transaction  
+- **Number of Items Sold** – Total items sold across outlets  
+- **Average Customer Rating** – Average rating given by customers for products  
 
-Total Sales
-Overall revenue generated from all items sold.
+---
 
-Average Sales
-Average revenue generated per transaction.
+## 🛠 Tools & Technologies
 
-Number of Items Sold
-Total count of items sold across outlets.
+- Microsoft Power BI – Data visualization and dashboard creation  
+- Microsoft Excel – Data preparation  
+- Power Query – Data cleaning and transformation  
+- DAX – KPI and measure calculations  
 
-Average Customer Rating
-Average rating given by customers for products.
+---
 
-Dataset Information
+## 📂 Dataset
 
-The dataset includes the following columns:
+The dataset includes the following attributes:
 
-Item Identifier
-
-Item Type
-
-Outlet Location Type
-
-Outlet Size
-
-Outlet Type
-
-Sales
-
-Item Visibility
-
-Item Weight
-
-Rating
+- Item Identifier  
+- Item Type  
+- Outlet Type  
+- Outlet Size  
+- Outlet Location Type  
+- Sales  
+- Item Visibility  
+- Item Weight  
+- Customer Rating  
 
 The dataset was cleaned and transformed before visualization.
 
-Tools & Technologies
+---
 
-Microsoft Power BI – Data visualization and dashboard creation
+## 📈 Dashboard Features
 
-Microsoft Excel – Data preparation and cleaning
+✔ KPI cards for quick insights  
+✔ Sales analysis by outlet type and location  
+✔ Product category performance visualization  
+✔ Customer rating analysis  
+✔ Interactive filters and slicers  
 
-Power Query – Data transformation
+---
 
-DAX – KPI and measure calculations
+## 🔄 Project Workflow
 
-Dashboard Features
+1. Data Collection  
+2. Data Cleaning using Power Query  
+3. Data Transformation  
+4. KPI Creation using DAX  
+5. Dashboard Development  
+6. Insight Generation  
 
-KPI Cards for quick insights
+---
 
-Bar Charts for sales comparison
+## 🖥 Dashboard Preview
 
-Pie Charts for outlet distribution
+Add your Power BI dashboard screenshot here.
 
-Slicers for filtering by outlet size, location, and item type
+Example:
 
-Interactive visualizations for better analysis
+![Dashboard Screenshot]()
 
-Project Workflow
+---
 
-Data Collection
+## 📊 Results
 
-Data Cleaning using Power Query
+The Power BI dashboard provides clear insights into Blinkit's sales performance, product demand, and customer satisfaction.  
+It helps identify high-performing products and supports better business decision making.
 
-Data Transformation
+---
 
-KPI Creation using DAX
+## 🚀 Future Scope
 
-Dashboard Development
+- Integration of real-time data  
+- Predictive sales analysis  
+- Additional KPIs such as delivery performance and customer retention  
 
-Insight Generation
+---
 
-Results
+## 👨‍💻 Author
 
-The dashboard provides a clear view of Blinkit's sales performance, customer ratings, and product demand. It helps identify sales trends, high-performing products, and opportunities for improving business strategies.
+**Pabitra Pal**  
 
-Future Improvements
-
-Integration of real-time sales data
-
-Advanced analytics using machine learning
-
-Additional KPIs such as delivery performance and customer retention
