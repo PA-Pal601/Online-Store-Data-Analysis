@@ -1,7 +1,6 @@
-# Online-Store-Data-Analysis
+# Online-Shop-Data-Analysis
 
-Project Overview
-
+"Project Overview"
 This project focuses on analyzing Blinkit's sales data using Microsoft Power BI. The goal is to gain insights into sales performance, customer satisfaction, and product demand through interactive dashboards and key performance indicators (KPIs).
 
 The dashboard helps visualize important business metrics and supports data-driven decision-making.
