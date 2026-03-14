@@ -77,8 +77,8 @@ Add your Power BI dashboard screenshot here.
 
 Example:
 
-![Dashboard Screenshot](screenshots/dashboard.png)
-https://github.com/PA-Pal601/Online-Store-Data-Analysis/blob/main/Screenshot%202026-03-14%20033409.png
+![Dashboard Screenshot](https://github.com/PA-Pal601/Online-Store-Data-Analysis/blob/main/Screenshot%202026-03-14%20033409.png)
+
 
 ---
 
